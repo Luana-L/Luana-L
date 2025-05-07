@@ -9,7 +9,7 @@ interesting and productive applications.
 <img align="right" alt="Totoro." width="350" src="https://cdn.dribbble.com/users/168484/screenshots/10830071/media/21cf75fd8fb02b18792881e1fd560c1f.gif" />
 
 ⭐️ CS @ Columbia University  
-⭐️ Incoming SWE @ Apple  
+⭐️ SWE @ Apple  
 ⭐️ Full-stack @ Tietronix  
 
 
@@ -58,7 +58,7 @@ running/hiking, and music (cello/guitar and recently, composing!).
 -->
 
 <p align="center">
-    <b>Looking for a software engineering intern?
+    <b>Looking for a software engineer?
         <a href="https://www.linkedin.com/in/luana-liao/">Let's connect!</a>
     </b>
 </p>
