@@ -9,15 +9,14 @@ interesting and productive applications.
 <img align="right" alt="Totoro." width="350" src="https://cdn.dribbble.com/users/168484/screenshots/10830071/media/21cf75fd8fb02b18792881e1fd560c1f.gif" />
 
 ⭐️ CS @ Columbia University  
-⭐️ SWE @ Apple  
-⭐️ Full-stack @ Tietronix  
-
+⭐️ SWE @ Google
+⭐️ Prev @ Apple
 
 Fun tidbits:
 - 🎨 My hobbies include acrylic painting/graphics design,
 running/hiking, and music (cello/guitar and recently, composing!).
 - 🐍 Favorite programming language: Python. 
-- 🌱 I’m currently learning about Natural Language Processing and C++.
+- 🌱 I’m currently learning about Computer Vision and Computational Sound.
 
 ## Skills
 
